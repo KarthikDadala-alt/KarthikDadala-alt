@@ -22,7 +22,7 @@ I enjoy connecting multiple systems (Odoo, Salesforce, HubSpot) and turning comp
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/karthik-dadala)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/karthik-dadala-2630a420a/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:dadalakarthik806@gmail.com)
 
 ---
