@@ -42,15 +42,4 @@ I enjoy connecting multiple systems (Odoo, Salesforce, HubSpot) and turning comp
 
 ---
 
-# 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarthikDadala-alt\&show_icons=true\&theme=dark\&hide_border=true\&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=KarthikDadala-alt\&theme=dark\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarthikDadala-alt\&layout=compact\&theme=dark\&hide_border=true)
-
-
----
-
 ![](https://visitcount.itsvg.in/api?id=KarthikDadala-alt\&icon=0\&color=0)
